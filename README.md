@@ -28,3 +28,6 @@ task6 activity1 ![image alt](https://github.com/vishvachris/Implement-Client-Scr
 
 
 task6 activity2 ![image alt](https://github.com/vishvachris/Implement-Client-Script-UI-Policy-/blob/aac64f13b6144291d978a279d00940673ea1de25/activity2%20task6.jpeg)
+
+
+task6 activity3 ![image alt]([image_url](https://github.com/vishvachris/Implement-Client-Script-UI-Policy-/blob/dd741ad29067d4b9879bfd156837c2fe7a4a200c/activity3%20task6.jpeg))
