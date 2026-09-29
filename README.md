@@ -7,3 +7,6 @@ task1 ![image alt](https://github.com/vishvachris/Implement-Client-Script-UI-Pol
 
 
 task2 ![image alt](https://github.com/vishvachris/Implement-Client-Script-UI-Policy-/blob/e86bb9c92e8c574b9d71606ba4d86ff7743811e1/task2.jpeg)
+
+
+task3 ![image alt](https://github.com/vishvachris/Implement-Client-Script-UI-Policy-/blob/557de7cb6852023879a8de3cbdefb061a7ac997a/task3.jpeg)
