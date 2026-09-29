@@ -25,3 +25,6 @@ task5 code  https://github.com/vishvachris/Implement-Client-Script-UI-Policy-/tr
 
 
 task6 activity1 ![image alt](https://github.com/vishvachris/Implement-Client-Script-UI-Policy-/blob/4ecf14bf5c3d99ec04728c2689048a3ea0dba05f/activity1%20task6.jpeg)
+
+
+task6 activity2 ![image alt](https://github.com/vishvachris/Implement-Client-Script-UI-Policy-/blob/aac64f13b6144291d978a279d00940673ea1de25/activity2%20task6.jpeg)
