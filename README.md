@@ -1,6 +1,10 @@
 # Implement-Client-Script-UI-Policy-
 
-drivelink  https://drive.google.com/drive/folders/1EP-kw3p35CxE30olMnW-GEc0m6jr0K-x?usp=sharing
+project documentation https://drive.google.com/drive/folders/1HB-4zhCinJTWRn_y11v_dJLsQAsHayk2?usp=sharing
+
+demo video https://drive.google.com/drive/folders/1EP-kw3p35CxE30olMnW-GEc0m6jr0K-x?usp=sharing
+
+drivelink https://drive.google.com/drive/folders/13eNMQ1ZOkuw0PwtO4RBfcz4lSkH-XQRa?usp=sharing
 
 
 task1 ![image alt](https://github.com/vishvachris/Implement-Client-Script-UI-Policy-/blob/73f08987c50d52428a85b2b15195e177c4d72a3a/task1.jpeg)
